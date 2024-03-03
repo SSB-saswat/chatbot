@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "location": "New York",
+    "phone": "123-456-7890",
+    "courses": ["Math", "Science"]
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "location": "Los Angeles",
+    "phone": "987-654-3210",
+    "courses": ["History", "English"]
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "location": "Chicago",
+    "phone": "555-555-5555",
+    "courses": ["Computer Science", "Physics"]
+  }
+]
